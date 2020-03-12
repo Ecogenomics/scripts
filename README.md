@@ -1,6 +1,6 @@
 # ACE Scripts
 
-This repository contains scripts referenced in ACE manuscripts.
+A collection of scripts referenced in ACE manuscripts.
 
 
 ## A rank-normalized archaeal taxonomy based on genome phylogeny resolves widespread incomplete and uneven classifications
